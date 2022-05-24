@@ -131,8 +131,6 @@ class FeedEdit extends Component {
       formIsValid: false,
       imagePreview: null
     });
-    location.reload();
-    return false;
   };
 
   render() {
