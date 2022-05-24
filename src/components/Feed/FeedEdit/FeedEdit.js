@@ -131,7 +131,6 @@ class FeedEdit extends Component {
       formIsValid: false,
       imagePreview: null
     });
-    window.location.assign();
   };
 
   render() {
